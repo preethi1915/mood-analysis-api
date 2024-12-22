@@ -39,5 +39,5 @@ The **Mood Analysis API** is a web application built with **FastAPI** to analyze
 ## Installation and Setup
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/mood-analysis-api.git
+git clone https://github.com/preethi1915/mood-analysis-api.git
 cd mood-analysis-api
