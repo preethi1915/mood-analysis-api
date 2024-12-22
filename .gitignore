@@ -5,3 +5,4 @@ __pycache__/
 *.ps1
 *.cfg
 env/
+.README.md
