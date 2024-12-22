@@ -1,7 +1,0 @@
-SENTIMENTENV/
-__pycache__/
-*.exe
-*.bat
-*.ps1
-*.cfg
-env/
